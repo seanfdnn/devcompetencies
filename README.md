@@ -26,22 +26,20 @@ A collection of thoughts about "what makes a good developer"
 * Frequently re-invents the wheel: implements own methods 
 ### Patterns
 * Knowledgeable of all language features and applies them appropriately. For example, in C# use of enumerations, foreach, yields, lambdas, events, Linq, async/await, delegates, etc.. In Python: generators, list comprehension. 
-* 
-e breadth and depth of capabilities offered by the language and it's built-in libraries and readily-avaliable libraries 
 
 ## Refactoring
-* Anti-Patterns
-** Continuously "kludges" new functionality into existing code -- attempts as much as possible to add new code while avoiding touching existing code and avoiding re-factoring
-* Patterns
-** Can accurately describe refactoring actions in terms of Martin Fowler's "Refactoring" terms such as "extract method", "extract interface", "pull-up member variable" etc...
+### Anti-Patterns
+* Continuously "kludges" new functionality into existing code -- attempts as much as possible to add new code while avoiding touching existing code and avoiding re-factoring
+## Patterns
+* Can accurately describe refactoring actions in terms of Martin Fowler's "Refactoring" terms such as "extract method", "extract interface", "pull-up member variable" etc...
 
 ## Source Control / Configuration Management
-* Anti-Patterns
-** Doesn't use source control 
-** Routinley goes days or longer without checking into mainline, or uses branches to avoid continuous integration of code
-* Patterns
-** Continuously integrates: Checks in code to mainline daily 
-** Able to perform basic operations 
+# Anti-Patterns
+* Doesn't use source control 
+* Routinley goes days or longer without checking into mainline, or uses branches to avoid continuous integration of code
+# Patterns
+* Continuously integrates: Checks in code to mainline daily 
+* Able to perform basic operations 
 
 ## Computer Science
 
