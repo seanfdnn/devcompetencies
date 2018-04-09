@@ -34,12 +34,21 @@ A collection of thoughts about "what makes a good developer"
 * Can accurately describe refactoring actions in terms of Martin Fowler's "Refactoring" terms such as "extract method", "extract interface", "pull-up member variable" etc...
 
 ## Source Control / Configuration Management
-# Anti-Patterns
+### Anti-Patterns
 * Doesn't use source control 
 * Routinley goes days or longer without checking into mainline, or uses branches to avoid continuous integration of code
-# Patterns
+### Patterns
 * Continuously integrates: Checks in code to mainline daily 
-* Able to perform basic operations 
+* Able to perform basic operations
+### Knowledge
+* Can clone a repo, i.e. `git clone`
+* Can commit, adding only desired changes, i.e. `git add`, `git commit`
+* Can pull latest `git pull`
+* Can merge 
+* Can create, switch between branches
+* Can stash and pop
+* Can create tags
+
 
 ## Computer Science
 
