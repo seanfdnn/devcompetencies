@@ -69,3 +69,8 @@ A collection of thoughts about "what makes a good developer"
 
 ## Management
 
+# Dumping Ground
+Skills that are probably important but haven't been categorized yet.
+- Using `ssh` to connect to a remote host
+- Using `scp` to copy files to/from a remote host
+- Generating keypairs
